@@ -262,6 +262,8 @@ both significantly better values.
 As for the ESM, there were issues:
 ![download (4)](https://github.com/marcuschen001/EE399-A-HW5/assets/66970342/794b3ff5-afc2-4650-9447-5ecb1401240c)
 
+Where the red is the expectations and the yellow is the ESN.
+
 The MSE error for the ESM is:
 
 ```
